@@ -2,7 +2,7 @@
 using namespace std;
 
 //find second duplicate element in array
-//uisng XOR ing
+//uisng XOR ing.
 //O(n)
 int fun(int arr[],int n)
 {
